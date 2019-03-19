@@ -12,7 +12,7 @@ _This website lays out the menu, the about page, and some photos of the food the
 
 * _Clone the file from github_
 * _open the file and double click index.html_
-* _alternatively you can visit https://www.toofpaste.github.io/website_
+* _alternatively you can visit https://toofpaste.github.io/website/
 
 ## Support and contact details
 
